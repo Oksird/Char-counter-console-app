@@ -1,0 +1,2 @@
+# Char counter Application
+
